@@ -1,1 +1,0 @@
-RadioNodeList.prototype = new NodeList();
