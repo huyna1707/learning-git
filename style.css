@@ -51,6 +51,7 @@ li {
   flex-direction: row;
   align-items: center;
   justify-content: center;
+  margin-right: 20px;
 }
 
 #header-top-right input {
@@ -151,7 +152,7 @@ li {
 }
 
 #content #content-top {
-  background: url("/assets/img/slider1.png")  center / cover no-repeat;
+  background: url("/assets/img/slider1.png") center / cover no-repeat;
   width: 100%;
   height: 500px;
   display: flex;
@@ -231,7 +232,7 @@ li {
   margin-top: 20px;
 }
 
-#content #content-bottom .slider img{
+#content #content-bottom .slider img {
   width: 100%;
   object-fit: cover;
 }
